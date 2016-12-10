@@ -1,4 +1,4 @@
-1.  Clone that repository to your local machine.
+1.  Clone this repository to your local machine.
 2.  Make a branch with "<b>myNewBranch</b>" as the branch title.
 3.  In this new named branch, make a text file named “<b>fileAddedToMyBranch.txt</b>”. Put your name in this text file.
 4.  Commit this branch.
